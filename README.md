@@ -43,9 +43,10 @@ In preparation.
 References
 ---
 
-[1] [Honma](http://cds.cern.ch/record/534461/files/0201045.pdf)
 
-[2] Fernandez-Trincado et al. 2015, [2015sf2a.conf...13F](http://arxiv.org/abs/1510.00862)
+[1] Fernandez-Trincado et al. 2015, [2015sf2a.conf...13F](http://arxiv.org/abs/1510.00862)
+
+[2] Honma et al. 2002, [2002ApJ...568..717H](http://cds.cern.ch/record/534461/files/0201045.pdf)
 
 
 

@@ -12,7 +12,7 @@ J. G. Fernandez-Trincado
 If interested in this project, please contact me: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
 
-![Microlensing](https://github.com/Fernandez-Trincado/Microlensing16/blob/master/)
+![Microlensing](https://github.com/Fernandez-Trincado/Microlensing16/blob/master/ProximaCentauri.jpg)
 
 Credit: ESA/Hubble
 

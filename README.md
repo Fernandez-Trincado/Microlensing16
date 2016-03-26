@@ -12,7 +12,10 @@ J. G. Fernandez-Trincado
 If interested in this project, please contact me: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
 
-![Microlensing](https://github.com/Fernandez-Trincado/Microlensing16/blob/master/A_Horseshoe_Einstein_Ring_from_Hubble.JPG)
+![Microlensing](https://github.com/Fernandez-Trincado/Microlensing16/blob/master/)
+
+Credit: ESA/Hubble
+
 
 Abstract
 ---
